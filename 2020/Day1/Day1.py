@@ -1,5 +1,4 @@
-# Read input file
-file1 = open('input.txt', 'r') 
+# Read input filefile1 = open('2020/Day1/input.txt', 'r') 
 Lines = file1.readlines() 
 
 myList = []
