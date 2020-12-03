@@ -19,6 +19,8 @@ def theCheck(inputList):
                     continue
                 elif idx2 == idx3:
                     continue
+                elif idx == idx3:
+                    continue
 
                 else:
                     if (val + val2 + val3) == 2020:
